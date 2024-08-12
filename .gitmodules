@@ -1,3 +1,6 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/Myxogastria0808/github-submodule-mytutorial-sub.git
+[submodule "github-submodule-mytutorial-sub"]
+	path = github-submodule-mytutorial-sub
+	url = https://github.com/Myxogastria0808/github-submodule-mytutorial-sub.git
